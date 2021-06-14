@@ -1,2 +1,3 @@
 # NkustHtmlFlappyBird
-![image](https://user-images.githubusercontent.com/68138484/121829756-fd150880-ccf5-11eb-885a-23f09614f92a.png)
+![image](https://user-images.githubusercontent.com/68138484/121829793-1e75f480-ccf6-11eb-998f-4e6d62c96155.png)
+
